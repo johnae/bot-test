@@ -1,2 +1,2 @@
 # bot-test
-Testing bot
+Testing github bots - ignore this repo.
